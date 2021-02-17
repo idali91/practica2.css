@@ -1,0 +1,55 @@
+/* color del body */
+body{
+    background-color: rgba(157, 201, 231, 0.795);
+}
+/* titulo en la pagina */
+h3.ciudad{
+    text-align: center;
+}
+/* color de fondo de la section */
+section.imagenes{
+    text-align: center;
+    background-color: white;
+}
+/* tamaño de los hr */
+hr.h{
+    width: 50%;
+}
+
+/* Opacidad imagenes */
+img.valencia:hover{
+    opacity: 0.5;
+}
+/* Lineas separadoras  */
+div.azul{
+    background-color: blue;
+}
+
+/* hover valencia */
+ span.valencia:hover{
+     background-color: rgba(110, 175, 236, 0.671);
+     font-weight: bold;
+ }
+
+/* Fondo de explicacion valencia */
+div.fondo{
+    background-image: url("img/valencia_antigua.jpg");
+    background-repeat: inherit;
+    border: black 2px solid;
+    width: 85%;
+}
+/* Color letra explicacion valencia */
+p.historia{
+    color: blue;
+    text-align: left;
+    font-weight: bold;
+}
+/* Posicion plano valencia */
+p.centro{
+    text-align: center;
+}
+/* Tamaño imagen plano valencia */
+img.antigua2{
+    width: 280px;
+    height: 250px;
+}
